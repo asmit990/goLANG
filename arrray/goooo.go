@@ -18,4 +18,4 @@ func main() {
 	fmt.Println("value of name at 2 index is ; ", name(2))
    fmt.Println("name array is %q\n", name)
 	// go make the array default initialization with 
-}
+}   
