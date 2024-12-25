@@ -17,6 +17,6 @@ func main() {
 	fmt.Println("length of Number array is : ", len(numbers))
 	fmt.Println("value of name at 2 index is ; ", name(2))
    fmt.Println("name array is %q\n", name)
-	// go make the array default initialization with
+	// go make the array default initialization with 0000
 	// wapas kuch khaarab hai  
 }   
